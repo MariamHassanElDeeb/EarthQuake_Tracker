@@ -1,0 +1,8 @@
+@font-face
+{
+    font-family: 'EarthquakeMF';
+  src: url('EarthquakeMF.eot');
+      url('EarthquakeMF.eot?#') format('embedded-opentype'),
+      url('EarthquakeMF.woff') format('woff'),
+      url('EarthquakeMF.ttf') format('truetype');
+}
